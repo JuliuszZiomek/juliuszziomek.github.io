@@ -17,6 +17,6 @@ Before joining Oxford, I worked for a year as a Research Engineer at Huawei R&D 
 Before Huawei, I graduated with an MSc with Distinction in Statistics with Data Science at the University of Edinburgh - the birthplace of Bayesian Statistics. 
 I also obtained the best student award for my academic performance during this degree.
 
-Publications
+Selected Publications - see [my Scholar Page](https://scholar.google.com/citations?user=aOHCQ-AAAAAJ&hl=en) for a full list
 ------
 **Juliusz Ziomek**, Haitham Bou-Ammar - _Are Random Decompositions all we need in High-Dimensional Bayesian Optimisation_ - ICML 2023
