@@ -19,4 +19,4 @@ I also obtained the best student award for my academic performance during this d
 
 Selected Publications - see [my Scholar Page](https://scholar.google.com/citations?user=aOHCQ-AAAAAJ&hl=en) for a full list
 ------
-**Juliusz Ziomek**, Haitham Bou-Ammar - _Are Random Decompositions all we need in High-Dimensional Bayesian Optimisation_ - ICML 2023
+**Juliusz Ziomek**, Haitham Bou-Ammar - _Are Random Decompositions all we need in High-Dimensional Bayesian Optimisation_ - ICML 2023 [(Conference)](https://proceedings.mlr.press/v202/ziomek23a/ziomek23a.pdf) [(Code)](https://github.com/huawei-noah/HEBO/tree/master/RDUCB)
