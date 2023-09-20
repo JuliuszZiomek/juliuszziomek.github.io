@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 About
 ======
 I am a PhD student at the University of Oxford, supervised by [Michael A. Osborne](https://www.robots.ox.ac.uk/~mosb/). 
