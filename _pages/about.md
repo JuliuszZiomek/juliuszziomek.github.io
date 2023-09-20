@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About
-======
 I am a PhD student at the University of Oxford, supervised by [Michael A. Osborne](https://www.robots.ox.ac.uk/~mosb/). 
 My studies are funded by EPSRC and the Oxford-Ashton Memorial Scholarship.
 My research interests include Bayesian Optimisation, both its theory and applications.
