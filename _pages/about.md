@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the University of Oxford, supervised by [Michael A. Osborne](https://www.robots.ox.ac.uk/~mosb/). 
+I am a PhD student at the University of Oxford, supervised by [prof. Michael A. Osborne](https://www.robots.ox.ac.uk/~mosb/). 
 My studies are funded by EPSRC and the Oxford-Ashton Memorial Scholarship.
 My research interests include Bayesian Optimisation, both its theory and applications. Have a look at [My research](https://juliuszziomek.github.io/bo/) subpage for more information.
 
