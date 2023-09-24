@@ -19,7 +19,8 @@ This problem setup, called _black-box optimisation_, is very difficult, but at t
 Why do we need BO?
 ======
 
-It turns out that there are numerous tasks that can be framed as a _black-box optimisation_ problem. Examples include:
+It turns out that there are numerous tasks that can be framed as a _black-box optimisation_ problem and solved with BO!
+Examples include:
 * [Antibody design](https://www.cell.com/cell-reports-methods/pdf/S2667-2375(22)00276-4.pdf),  where $x$ is a sequence of proteins and $f(x)$ is the efficiency of resulting antibody in fighting a pathogen (its binding specificity)
 * [Logic circuit design](https://arxiv.org/pdf/2111.06178.pdf), where $x$ is the sequence of operations on the circuit and $f(x)$ is its quality, which is high whenever the circuit is small and fast
 * [Hyperparameter tuning](https://dl.acm.org/doi/pdf/10.1613/jair.1.13643), where $x$ is the hyperparameter of an algorithm and $f(x)$ is its speed or performance
