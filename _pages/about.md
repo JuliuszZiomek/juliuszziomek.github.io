@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student at the University of Oxford, supervised by [Michael A. Osborne](https://www.robots.ox.ac.uk/~mosb/). 
 My studies are funded by EPSRC and the Oxford-Ashton Memorial Scholarship.
-My research interests include Bayesian Optimisation, both its theory and applications.
+My research interests include Bayesian Optimisation, both its theory and applications. Have a look at [My research](https://juliuszziomek.github.io/bo/) subpage for more information.
 
 Before joining Oxford, I worked for a year as a Research Engineer at Huawei R&D London office, under the supervision of [Haitham Bou-Ammar](https://scholar.google.com/citations?user=AE5suDoAAAAJ&hl=en). During my time at Huawei, I have invented the [RDUCB algorithm](https://proceedings.mlr.press/v202/ziomek23a/ziomek23a.pdf), currently state of art on many high dimensional black-box optimisation problems.
 
