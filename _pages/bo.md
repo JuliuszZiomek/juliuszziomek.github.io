@@ -38,7 +38,7 @@ In Bayesian Optimisation, we first look at the points, at which we have already 
 
 Here, we have 5 points, based on which we construct a model of the function (solid line) and compute its uncertainty (shaded regions). In the example above, we have used a _surrogate model_ called  [Gaussian Process](https://en.wikipedia.org/wiki/Gaussian_process).
 
-Given this model, we can now select the most promising point to try next! Usually, we want to try a point that has a large extrapolated value, but at the same time, we want to explore regions with high uncertainty to learn more about the function. A criterion that balances those two requirements is called an _acquisition function_. Given the model of the function $\mu()$ and its uncertainty $\sigma()$, a popular acquisition function called UCB, takes the form of 
+Given this model, we can now select the most promising point to try next! Usually, we want to try a point that has a large extrapolated value, but at the same time, we want to explore regions with high uncertainty to learn more about the function. A criterion that balances those two requirements is called an _acquisition function_. Given the model of the function $\mu(\cdot)$ and its uncertainty $\sigma(\cdot)$, a popular acquisition function called UCB, takes the form of 
 
 $$ \alpha(x) = \mu(x) + \beta \sigma(x) $$
 
