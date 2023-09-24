@@ -15,7 +15,7 @@ My research interests include Bayesian Optimisation, both its theory and applica
 Before joining Oxford, I worked for a year as a Research Engineer at Huawei R&D London office, under the supervision of [Haitham Bou-Ammar](https://scholar.google.com/citations?user=AE5suDoAAAAJ&hl=en). During my time at Huawei, I have invented the [RDUCB algorithm](https://proceedings.mlr.press/v202/ziomek23a/ziomek23a.pdf), currently state of art on many high dimensional black-box optimisation problems.
 
 Before Huawei, I graduated with an MSc with Distinction in Statistics with Data Science at the University of Edinburgh - the birthplace of Bayesian Statistics. 
-I also obtained the best student award for my academic performance during this degree.
+I also obtained the best student award for my academic performance during this degree. See the [CV](https://juliuszziomek.github.io/cv/) subpage for more details about my education and employment.
 
 Selected Publications - see [my Scholar Page](https://scholar.google.com/citations?user=aOHCQ-AAAAAJ&hl=en) for a full list
 ------
