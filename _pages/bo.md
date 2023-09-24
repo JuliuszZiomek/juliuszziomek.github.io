@@ -13,7 +13,7 @@ Bayesian Optimisation (BO), as the name implies, is a method for _optimisation_,
 
 $$ \max_{x \in \mathcal{X}} f(x) $$
 
-where $\mathcal{X}$ is some set of "allowed" inputs to the function $f()$. However, contrary to standard optimisation techniques, BO can optimise function $f()$ without having to know anything about it! We only assume we can query the function $f()$ at a selected point $x$, but we are only allowed a limited number of queries, as they are very costly and/or time-consuming.
+where $\mathcal{X}$ is some set of "allowed" inputs to the function $f(\cdot)$. However, contrary to standard optimisation techniques, BO can optimise function $f(\cdot)$ without having to know anything about it! We only assume we can query the function $f(\cdot)$ at a selected point $x$, but we are only allowed a limited number of queries, as they are very costly and/or time-consuming.
 This problem setup, called _black-box optimisation_, is very difficult, but at the same time, ubiquitous, as we will show below.
 
 Why do we need BO?
@@ -30,7 +30,7 @@ Fortunately, BO can do that! Let us have a look at how this is achieved next.
 
 How does BO work?
 ======
-As we do not know the function formula, we are unable to analytically find an optimum of our function. At the same time, we are also unable to differentiate the function $f()$, which rules out the usage of gradient methods. What else can we try then?
+As we do not know the function formula, we are unable to analytically find an optimum of our function. At the same time, we are also unable to differentiate the function $f(\cdot)$, which rules out the usage of gradient methods. What else can we try then?
 
 In Bayesian Optimisation, we first look at the points, at which we have already evaluated the function. We use this knowledge to construct a _surrogate model_ of the function, as shown below:
 
