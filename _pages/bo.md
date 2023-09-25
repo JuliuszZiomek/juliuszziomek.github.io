@@ -23,7 +23,7 @@ It turns out that there are numerous tasks that can be framed as a _black-box op
 Examples include:
 * [Antibody design](https://www.cell.com/cell-reports-methods/pdf/S2667-2375(22)00276-4.pdf),  where $x$ is a sequence of proteins and $f(x)$ is the efficiency of resulting antibody in fighting a pathogen (its binding specificity)
 * [Logic circuit design](https://arxiv.org/pdf/2111.06178.pdf), where $x$ is the sequence of operations on the circuit and $f(x)$ is its quality, which is high whenever the circuit is small and fast
-* [Hyperparameter tuning](https://dl.acm.org/doi/pdf/10.1613/jair.1.13643), where $x$ is the hyperparameter of an algorithm and $f(x)$ is its speed or performance
+* [Hyperparameter tuning](https://dl.acm.org/doi/pdf/10.1613/jair.1.13643), where $x$ is the hyperparameter of an algorithm and $f(x)$ is its speed or performance. For example, BO was used to tune hyperparameters of the famous [AlphaGo](https://arxiv.org/pdf/1812.06855.pdf) algorithm
 
 As you can see, this kind of problem setup appears in multiple domains across computer science, engineering and medicine! We can also see that in most of these problems (especially Antibody design) each evaluation of a proposed solution will take time and resources. As such, we need to be very sample-efficient!
 Fortunately, BO can do that! Let us have a look at how this is achieved next.
