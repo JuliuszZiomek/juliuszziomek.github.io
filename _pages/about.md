@@ -21,8 +21,8 @@ Selected Publications - see [my Scholar Page](https://scholar.google.com/citatio
 ------
 **Juliusz Ziomek**, Haitham Bou-Ammar - _Are Random Decompositions all we need in High-Dimensional Bayesian Optimisation_ - ICML 2023 [(Conference)](https://proceedings.mlr.press/v202/ziomek23a/ziomek23a.pdf) [(Code)](https://github.com/huawei-noah/HEBO/tree/master/RDUCB)
 
-D Mguni, A Sootla, **J Ziomek**, O Slumbers, Z Dai, K Shao, J Wang - _Timing is everything: Learning to act selectively with costly actions and budgetary constraints_ - ICLR 2023 [(Conference)][https://openreview.net/pdf?id=_BoPed4tYww]
+D Mguni, A Sootla, **J Ziomek**, O Slumbers, Z Dai, K Shao, J Wang - _Timing is everything: Learning to act selectively with costly actions and budgetary constraints_ - ICLR 2023 [(Conference)](https://openreview.net/pdf?id=_BoPed4tYww)
 
 Preprints
 ------
-R Tutunov, A Grosnit, **J Ziomek**, J Wang, H Bou-Ammar -  _Why Can Large Language Models Generate Correct Chain-of-Thoughts?_ [(pdf)][https://arxiv.org/pdf/2310.13571.pdf]
+R Tutunov, A Grosnit, **J Ziomek**, J Wang, H Bou-Ammar -  _Why Can Large Language Models Generate Correct Chain-of-Thoughts?_ [(pdf)](https://arxiv.org/pdf/2310.13571.pdf)
