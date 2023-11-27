@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download my full CV [here](http://academicpages.github.io/files/JuliuszZiomek_resume.pdf).
+Download my full CV [here](http://juliuszziomek.github.io/files/JuliuszZiomek_resume.pdf).
 
 Education
 ======
