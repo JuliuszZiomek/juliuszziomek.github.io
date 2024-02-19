@@ -26,4 +26,5 @@ D Mguni, A Sootla, **J Ziomek**, O Slumbers, Z Dai, K Shao, J Wang - _Timing is 
 Preprints
 ------
 **Juliusz Ziomek**, Masaki Adachi, Michael A. Osborne - _Beyond Lengthscales: No-regret Bayesian Optimisation With Unknown Hyperparameters Of Any Type_ [(pdf)](https://arxiv.org/abs/2402.01632)
+
 R Tutunov, A Grosnit, **J Ziomek**, J Wang, H Bou-Ammar -  _Why Can Large Language Models Generate Correct Chain-of-Thoughts?_ [(pdf)](https://arxiv.org/pdf/2310.13571.pdf)
