@@ -12,7 +12,7 @@ I am a PhD student at the University of Oxford, supervised by [prof. Michael A. 
 My studies are funded by EPSRC and the Oxford-Ashton Memorial Scholarship.
 My research interests include Bayesian Optimisation and Reinforcement Learning. Have a look at [My research](https://juliuszziomek.github.io/bo/) subpage for more information.
 
-Before joining Oxford, I worked for a year as a Research Engineer at Huawei R&D London office, under the supervision of [Haitham Bou-Ammar](https://scholar.google.com/citations?user=AE5suDoAAAAJ&hl=en). During my time at Huawei, I have invented the [RDUCB algorithm](https://proceedings.mlr.press/v202/ziomek23a/ziomek23a.pdf), currently state of art on many high dimensional black-box optimisation problems.
+Before joining Oxford, I worked for a year as a Research Engineer at Huawei R&D London office, under the supervision of [Haitham Bou-Ammar](https://scholar.google.com/citations?user=AE5suDoAAAAJ&hl=en). During my time at Huawei, I invented the [RDUCB algorithm](https://proceedings.mlr.press/v202/ziomek23a/ziomek23a.pdf) and contributed its implementation to Huawei's open-source library [HEBO](https://github.com/huawei-noah/HEBO).
 
 Before Huawei, I graduated with an MSc with Distinction in Statistics with Data Science at the University of Edinburgh - the birthplace of Bayesian Statistics. 
 I also obtained the best student award for my academic performance during this degree. See the [CV](https://juliuszziomek.github.io/cv/) subpage for more details about my education and employment.
@@ -25,4 +25,5 @@ D Mguni, A Sootla, **J Ziomek**, O Slumbers, Z Dai, K Shao, J Wang - _Timing is 
 
 Preprints
 ------
+**Juliusz Ziomek**, Masaki Adachi, Michael A. Osborne - _Beyond Lengthscales: No-regret Bayesian Optimisation With Unknown Hyperparameters Of Any Type_ [(pdf)](https://arxiv.org/abs/2402.01632)
 R Tutunov, A Grosnit, **J Ziomek**, J Wang, H Bou-Ammar -  _Why Can Large Language Models Generate Correct Chain-of-Thoughts?_ [(pdf)](https://arxiv.org/pdf/2310.13571.pdf)
