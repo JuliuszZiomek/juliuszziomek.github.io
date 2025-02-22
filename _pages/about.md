@@ -20,7 +20,7 @@ I also obtained the best student award for my academic performance during this d
 
 Selected Publications - see [my Scholar Page](https://scholar.google.com/citations?user=aOHCQ-AAAAAJ&hl=en) for a full list
 ------
-**Juliusz Ziomek**, Masaki Adachi, Michael A. Osborne - _e-Varying Gaussian Process Bandits with Unknown Prior_ - AISTATS 2025 [(Conference)](https://arxiv.org/pdf/2402.01632)
+**Juliusz Ziomek**, Masaki Adachi, Michael A. Osborne - _Time-Varying Gaussian Process Bandits with Unknown Prior_ - AISTATS 2025 [(Conference)](https://arxiv.org/pdf/2402.01632)
 
 **Juliusz Ziomek**, Masaki Adachi, Michael A. Osborne - _Bayesian Optimisation with Unknown Hyperparameters: Regret Bounds Logarithmically Closer to Optimal_ - NeurIPS 2024 [(Conference)](https://arxiv.org/pdf/2410.10384)
 
