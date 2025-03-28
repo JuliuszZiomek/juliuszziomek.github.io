@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Download my full CV [here](http://juliuszziomek.github.io/files/JuliuszZiomek_resume.pdf).
-
 Education
 ======
 * Ph.D in Machine Learning, University of Oxford, 2023 - ongoing
