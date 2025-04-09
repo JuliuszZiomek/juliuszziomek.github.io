@@ -21,3 +21,7 @@ Work experience
 * Research Engineer, Huawei R&D, London, UK, April 2022 - September 2023
 * Machine Learning Intern, PolyAI, London, UK, June 2021 - September 2021
 * Machine Learning Intern, University of Southampton, Southampton, UK, June 2020 - September 2020
+
+Teaching Experience
+======
+* Tutor for C19 Deep Learning, University of Oxford, 2024-2025
