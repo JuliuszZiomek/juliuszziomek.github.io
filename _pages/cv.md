@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* PhD Research Intern, Sakana AI, Tokyo, Japan, June 2024 - December 2024
+* PhD Research Intern, Sakana AI, Tokyo, Japan (and remote), June 2024 - December 2024
 * Research Engineer, Huawei R&D, London, UK, April 2022 - September 2023
 * Machine Learning Intern, PolyAI, London, UK, June 2021 - September 2021
 * Machine Learning Intern, University of Southampton, Southampton, UK, June 2020 - September 2020
@@ -25,3 +25,4 @@ Work experience
 Teaching Experience
 ======
 * Tutor for C19 Deep Learning, University of Oxford, 2024-2025
+* Tutor for B20 Machine Learning, University of Oxford, 2025-2026
