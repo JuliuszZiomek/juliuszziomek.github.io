@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the University of Oxford, supervised by [prof. Michael A. Osborne](https://www.robots.ox.ac.uk/~mosb/) and [prof. Yee Whye Teh](https://www.stats.ox.ac.uk/~teh/). 
+I am a PhD student at the University of Oxford, supervised by [prof. M. A. Osborne](https://www.robots.ox.ac.uk/~mosb/) and [prof. Yee Whye Teh](https://www.stats.ox.ac.uk/~teh/). 
 My studies are funded by EPSRC and the Oxford-Ashton Memorial Scholarship.
 My research interests include Bayesian Optimisation and Robust Machine Learning. Have a look at [My research](https://juliuszziomek.github.io/bo/) subpage for more information.
 In 2024 I worked as an intern at [Sakana.ai](https://sakana.ai/) under the supervision of [Llion Jones](https://scholar.google.com/citations?user=_3_P5VwAAAAJ&hl=en&oi=ao), one of the creators of the transformer architecture.
@@ -20,11 +20,13 @@ I also obtained the best student award for my academic performance during this d
 
 Selected Publications - see [my Scholar Page](https://scholar.google.com/citations?user=aOHCQ-AAAAAJ&hl=en) for a full list
 ------
-**Juliusz Ziomek**, George Whittle, Michael A Osborne - _Just One Layer Norm Guarantees Stable Extrapolation_ - NeurIPS 2025 [(Conference)](https://openreview.net/pdf?id=2pCTBJQLwF)
+G. Whittle, **J Ziomek**, J Rawling, M. A. Osborne  Distribution Transformers: Fast Approximate Bayesian Inference With On-The-Fly Prior Adaptation - ICML2026, Spotlight - Top 2.2% (to appear) [(Preprint)](https://arxiv.org/pdf/2502.02463)
 
-**Juliusz Ziomek**, Masaki Adachi, Michael A. Osborne - _Time-Varying Gaussian Process Bandits with Unknown Prior_ - AISTATS 2025 [(Conference)](https://arxiv.org/pdf/2402.01632)
+**Juliusz Ziomek**, George Whittle, M. A. Osborne - _Just One Layer Norm Guarantees Stable Extrapolation_ - NeurIPS 2025 [(Conference)](https://openreview.net/pdf?id=2pCTBJQLwF)
 
-**Juliusz Ziomek**, Masaki Adachi, Michael A. Osborne - _Bayesian Optimisation with Unknown Hyperparameters: Regret Bounds Logarithmically Closer to Optimal_ - NeurIPS 2024 [(Conference)](https://arxiv.org/pdf/2410.10384)
+**Juliusz Ziomek**, Masaki Adachi, M. A. Osborne - _Time-Varying Gaussian Process Bandits with Unknown Prior_ - AISTATS 2025 [(Conference)](https://arxiv.org/pdf/2402.01632)
+
+**Juliusz Ziomek**, Masaki Adachi, M. A. Osborne - _Bayesian Optimisation with Unknown Hyperparameters: Regret Bounds Logarithmically Closer to Optimal_ - NeurIPS 2024 [(Conference)](https://arxiv.org/pdf/2410.10384)
 
 **Juliusz Ziomek**, Haitham Bou-Ammar - _Are Random Decompositions all we need in High-Dimensional Bayesian Optimisation_ - ICML 2023 [(Conference)](https://proceedings.mlr.press/v202/ziomek23a/ziomek23a.pdf) [(Code)](https://github.com/huawei-noah/HEBO/tree/master/RDUCB)
 
