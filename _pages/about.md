@@ -11,7 +11,6 @@ redirect_from:
 I am a PhD student at the University of Oxford, supervised by [prof. M. A. Osborne](https://www.robots.ox.ac.uk/~mosb/) and [prof. Yee Whye Teh](https://www.stats.ox.ac.uk/~teh/). 
 My studies are funded by EPSRC and the Oxford-Ashton Memorial Scholarship.
 My research interests include Bayesian Optimisation and Robust Machine Learning. Have a look at [My research](https://juliuszziomek.github.io/bo/) subpage for more information.
-In 2024 I worked as an intern at [Sakana.ai](https://sakana.ai/) under the supervision of [Llion Jones](https://scholar.google.com/citations?user=_3_P5VwAAAAJ&hl=en&oi=ao), one of the creators of the transformer architecture.
  
 Before joining Oxford, I worked for a year as a Research Engineer at Huawei R&D London office, under the supervision of [Haitham Bou-Ammar](https://scholar.google.com/citations?user=AE5suDoAAAAJ&hl=en). During my time at Huawei, I invented the [RDUCB algorithm](https://proceedings.mlr.press/v202/ziomek23a/ziomek23a.pdf) and contributed its implementation to Huawei's open-source library [HEBO](https://github.com/huawei-noah/HEBO).
 
