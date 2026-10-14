@@ -22,7 +22,7 @@ Selected Publications - see [my Scholar Page](https://scholar.google.com/citatio
 **J. Ziomek**, W. Bankes, L. Wolf, S. S. Ramesh, X. Tang, I. Bogunovic "LLM-WikiRace Benchmark: How Far Can LLMs Plan over Real-World Knowledge Graphs?" - NeurIPS 2026 (to appear)  [(Preprint)](https://arxiv.org/pdf/2602.16902) [(Code)](https://llmwikirace.github.io)
 
 
-G. Whittle, **J Ziomek**, J Rawling, M. A. Osborne  Distribution Transformers: Fast Approximate Bayesian Inference With On-The-Fly Prior Adaptation - ICML2026, Spotlight - Top 2.2%  [(Conference)](https://arxiv.org/pdf/2502.02463](https://openreview.net/pdf?id=bMHwh8qAGc) [(Code)](https://github.com/GWhittle110/distribution-transformers)
+G. Whittle, **J Ziomek**, J Rawling, M. A. Osborne  Distribution Transformers: Fast Approximate Bayesian Inference With On-The-Fly Prior Adaptation - ICML2026, Spotlight - Top 2.2%  [(Conference)](https://openreview.net/pdf?id=bMHwh8qAGc) [(Code)](https://github.com/GWhittle110/distribution-transformers)
 
 **Juliusz Ziomek**, George Whittle, M. A. Osborne - _Just One Layer Norm Guarantees Stable Extrapolation_ - NeurIPS 2025 [(Conference)](https://openreview.net/pdf?id=2pCTBJQLwF)
 
